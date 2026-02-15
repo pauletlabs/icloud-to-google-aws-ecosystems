@@ -1,0 +1,7 @@
+# iCloud Access
+pyicloud
+
+# Future additions:
+# icloudpd - for bulk photo downloads when needed
+# google-api-python-client - for Google Drive integration
+# boto3 - for AWS AI services
